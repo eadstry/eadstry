@@ -21,6 +21,12 @@ My research interests focus on **embodied AI, Sim2Real, world models, and reinfo
 
 研究兴趣聚焦具身智能，关注仿真到现实的迁移、世界建模，以及通过强化学习获得决策与控制能力。
 
+### Previous work
+
+Previously, I worked on **compression coding and communications**, including multi-view image compression.
+
+过去从事过**压缩编码与通信**相关工作，包括多视图图像压缩。
+
 ### Selected work
 
 <table>
