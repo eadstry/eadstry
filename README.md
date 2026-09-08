@@ -1,64 +1,34 @@
 <p align="center">
-  <img src="assets/header.svg?v=2" width="100%" alt="eadstry — Embodied intelligence, from simulation to reality" />
+  <img src="assets/anime-banner.png" width="100%" alt="eadstry — an anime research atelier, from simulated worlds to real robots" />
 </p>
 
-<p align="center">
-  <b>Embodied AI · Sim2Real · World Models · Reinforcement Learning</b><br />
-  <sub>具身智能 · 仿真到现实 · 世界模型 · 强化学习</sub>
-</p>
+<p align="center"><sub>✦ &nbsp; PERCEIVE &nbsp; · &nbsp; LEARN &nbsp; · &nbsp; ACT &nbsp; ✦</sub></p>
+
+<h2 align="center">Hi, I'm eadstry <sup>✧</sup></h2>
 
 <p align="center">
-  <a href="https://github.com/eadstry/geosic">GeoSIC</a> &nbsp; / &nbsp;
-  <a href="https://github.com/eadstry/world-model-notes">World Model Notes</a> &nbsp; / &nbsp;
-  <a href="https://github.com/eadstry?tab=repositories">Repositories</a>
+  Exploring how agents understand the world — and learn to act in it.<br />
+  <sub>让智能体理解世界，也学会在世界中行动。</sub>
 </p>
 
 <br />
 
-### Hi, I'm eadstry
+### 🪐 Research · 当前研究
 
-My research interests focus on **embodied AI, Sim2Real, world models, and reinforcement learning** — exploring how agents learn, understand, and act in the physical world.
+**Embodied AI · Sim2Real · World Models · Reinforcement Learning**
 
-研究兴趣聚焦具身智能，关注仿真到现实的迁移、世界建模，以及通过强化学习获得决策与控制能力。
+研究兴趣聚焦**具身智能、仿真到现实、世界模型与强化学习**。关注智能体如何通过交互学习感知、决策与控制，以及如何将仿真中学到的能力迁移到真实世界。
 
-### Previous work
+> From learning in simulated worlds to acting in the real one.
 
-Previously, I worked on **compression coding and communications**, including multi-view image compression.
+<br />
+
+### 📡 Previously · 过往经历
 
 过去从事过**压缩编码与通信**相关工作，包括多视图图像压缩。
 
-### Selected work
+<sub>Previous work in compression coding and communications, including multi-view image compression.</sub>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br />
 
-#### [GeoSIC](https://github.com/eadstry/geosic)
-
-Research code for **multi-view image compression**, with a PyTorch Lightning training pipeline and Hydra configuration.
-
-<sub>Python · PyTorch Lightning · Hydra</sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### [World Model Notes](https://github.com/eadstry/world-model-notes)
-
-A collection of **world-model reading resources**, with paper lists and documentation to explore the field.
-
-<sub>World Models · Papers · Reading Resources</sub>
-
-</td>
-</tr>
-</table>
-
-### Exploring
-
-- **Embodied AI** — connecting perception, decision-making, and action.
-- **Sim2Real** — transferring skills learned in simulation to the real world.
-- **World models** — learning representations of environments and their dynamics.
-- **Reinforcement learning** — learning decision-making and control through interaction.
-
----
-
-<p align="center"><sub>Perceive → Learn → Act</sub></p>
+<p align="center">✧ &nbsp; <sub>小小的好奇心，通往更大的世界。</sub> &nbsp; ✧</p>
