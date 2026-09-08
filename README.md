@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="eadstry — Visual intelligence, from pixels to worlds" />
+  <img src="assets/header.svg" width="100%" alt="eadstry — Embodied intelligence, from simulation to reality" />
 </p>
 
 <p align="center">
-  <b>Image Compression · Multi-view Learning · World Models</b><br />
-  <sub>探索视觉表示、图像压缩与世界模型。</sub>
+  <b>Embodied AI · Sim2Real · World Models · Reinforcement Learning</b><br />
+  <sub>具身智能 · 仿真到现实 · 世界模型 · 强化学习</sub>
 </p>
 
 <p align="center">
@@ -17,7 +17,9 @@
 
 ### Hi, I'm eadstry
 
-My interests lie in **visual representation, learned image compression, and world models**. This space brings together research code and reading resources.
+My research interests focus on **embodied AI, Sim2Real, world models, and reinforcement learning** — exploring how agents learn, understand, and act in the physical world.
+
+研究兴趣聚焦具身智能，关注仿真到现实的迁移、世界建模，以及通过强化学习获得决策与控制能力。
 
 ### Selected work
 
@@ -46,10 +48,11 @@ A collection of **world-model reading resources**, with paper lists and document
 
 ### Exploring
 
-- **Compact representations** — learning to represent visual information efficiently.
-- **Multi-view learning** — understanding the relationships between views.
-- **World models** — connecting visual observations with models of the world.
+- **Embodied AI** — connecting perception, decision-making, and action.
+- **Sim2Real** — transferring skills learned in simulation to the real world.
+- **World models** — learning representations of environments and their dynamics.
+- **Reinforcement learning** — learning decision-making and control through interaction.
 
 ---
 
-<p align="center"><sub>Pixels → Representations → Worlds</sub></p>
+<p align="center"><sub>Perceive → Learn → Act</sub></p>
