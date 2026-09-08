@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">eadstry</title>
+  <desc id="desc">Visual intelligence, from pixels to worlds. A navy banner with cyan and mint geometric representations.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1729"/><stop offset="1" stop-color="#163448"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#68d8f3"/><stop offset="1" stop-color="#93f4c5"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8ab9d0" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+  <rect x="60" y="60" width="42" height="4" rx="2" fill="url(#accent)"/>
+  <text x="60" y="137" fill="#f0f6fc" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="700" letter-spacing="-2">eadstry</text>
+  <text x="62" y="184" fill="#b8cedb" font-family="Arial,Helvetica,sans-serif" font-size="23">Visual intelligence, from pixels to worlds.</text>
+  <text x="62" y="251" fill="#8de7d4" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="3">REPRESENTATION / COMPRESSION / WORLD MODELS</text>
+  <g fill="none" stroke="url(#accent)" stroke-width="1.6">
+    <path d="m900 65 120 65v110l-120 65-120-65V130z" opacity=".7"/>
+    <path d="m780 130 120 65 120-65M900 195v110M900 65v130" opacity=".5"/>
+    <ellipse cx="900" cy="185" rx="165" ry="57" transform="rotate(-27 900 185)" opacity=".35"/>
+    <circle cx="900" cy="185" r="76" opacity=".2"/>
+  </g>
+  <g fill="#93f4c5"><circle cx="900" cy="65" r="4"/><circle cx="780" cy="130" r="4"/><circle cx="1020" cy="240" r="4"/><circle cx="900" cy="195" r="5"/></g>
+</svg>
