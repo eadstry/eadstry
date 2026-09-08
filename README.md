@@ -1,34 +1,25 @@
 <p align="center">
-  <img src="assets/anime-banner.png" width="100%" alt="eadstry — an anime research atelier, from simulated worlds to real robots" />
-</p>
-
-<br />
-
-<p align="center"><sub>R E S E A R C H &nbsp; I N T E R E S T S</sub></p>
-
-<p align="center">
-  <strong>Embodied AI &nbsp; · &nbsp; Sim2Real</strong><br />
-  <strong>World Models &nbsp; · &nbsp; Reinforcement Learning</strong>
+  <img src="assets/anime-banner.png" width="100%" alt="eadstry — Learning to act in the real world. Original anime research atelier." />
 </p>
 
 <p align="center">
-  I'm interested in how embodied agents learn to perceive, reason, and act —<br />
-  and how the abilities they acquire in simulation can carry into the real world.
+  <img src="assets/research-profile.svg" width="100%" alt="Research interests: Embodied AI, Sim2Real, World Models and Reinforcement Learning. Previously: compression coding and communications, including multi-view image compression." />
 </p>
 
-<br />
+<details>
+<summary>About me · 文字版</summary>
 
-<p align="center">⋆ &nbsp; ˚ &nbsp; ✧ &nbsp; ˚ &nbsp; ⋆</p>
+### 当前研究
 
-<br />
+我的研究兴趣是**具身智能、Sim2Real、世界模型与强化学习**，关注智能体如何理解环境、通过交互学习，以及将仿真中的能力迁移到真实世界。
 
-<p align="center"><sub>P R E V I O U S L Y</sub></p>
+- **Embodied AI** — 感知、推理与行动。
+- **Sim2Real** — 从仿真中学习，向现实迁移。
+- **World Models** — 学习环境表示与动态变化。
+- **Reinforcement Learning** — 通过交互学习决策与控制。
 
-<p align="center">
-  I worked on <strong>compression coding and communications</strong>,<br />
-  including multi-view image compression.
-</p>
+### 过往经历
 
-<br />
+过去从事过**压缩编码与通信**相关工作，包括多视图图像压缩。
 
-<p align="center"><sub><em>Learning in simulation. Growing into reality.</em></sub></p>
+</details>
