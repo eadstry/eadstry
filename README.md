@@ -2,33 +2,33 @@
   <img src="assets/anime-banner.png" width="100%" alt="eadstry — an anime research atelier, from simulated worlds to real robots" />
 </p>
 
-<p align="center"><sub>✦ &nbsp; PERCEIVE &nbsp; · &nbsp; LEARN &nbsp; · &nbsp; ACT &nbsp; ✦</sub></p>
+<br />
 
-<h2 align="center">Hi, I'm eadstry <sup>✧</sup></h2>
+<p align="center"><sub>R E S E A R C H &nbsp; I N T E R E S T S</sub></p>
 
 <p align="center">
-  Exploring how agents understand the world — and learn to act in it.<br />
-  <sub>让智能体理解世界，也学会在世界中行动。</sub>
+  <strong>Embodied AI &nbsp; · &nbsp; Sim2Real</strong><br />
+  <strong>World Models &nbsp; · &nbsp; Reinforcement Learning</strong>
+</p>
+
+<p align="center">
+  I'm interested in how embodied agents learn to perceive, reason, and act —<br />
+  and how the abilities they acquire in simulation can carry into the real world.
 </p>
 
 <br />
 
-### 🪐 Research · 当前研究
-
-**Embodied AI · Sim2Real · World Models · Reinforcement Learning**
-
-研究兴趣聚焦**具身智能、仿真到现实、世界模型与强化学习**。关注智能体如何通过交互学习感知、决策与控制，以及如何将仿真中学到的能力迁移到真实世界。
-
-> From learning in simulated worlds to acting in the real one.
+<p align="center">⋆ &nbsp; ˚ &nbsp; ✧ &nbsp; ˚ &nbsp; ⋆</p>
 
 <br />
 
-### 📡 Previously · 过往经历
+<p align="center"><sub>P R E V I O U S L Y</sub></p>
 
-过去从事过**压缩编码与通信**相关工作，包括多视图图像压缩。
-
-<sub>Previous work in compression coding and communications, including multi-view image compression.</sub>
+<p align="center">
+  I worked on <strong>compression coding and communications</strong>,<br />
+  including multi-view image compression.
+</p>
 
 <br />
 
-<p align="center">✧ &nbsp; <sub>小小的好奇心，通往更大的世界。</sub> &nbsp; ✧</p>
+<p align="center"><sub><em>Learning in simulation. Growing into reality.</em></sub></p>
