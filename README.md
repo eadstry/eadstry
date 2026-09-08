@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/research-profile.svg?v=anime1" width="100%" alt="Research interests: Embodied AI, Sim2Real, World Models and Reinforcement Learning. Previously: compression coding and communications, including multi-view image compression." />
+  <img src="assets/anime-profile.svg" width="100%" alt="Research interests: Embodied AI, Sim2Real, World Models and Reinforcement Learning. Previously: compression coding and communications, including multi-view image compression." />
 </p>
 
 <details>
