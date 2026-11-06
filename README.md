@@ -1,25 +1,15 @@
-<p align="center">
-  <img src="assets/anime-banner.png" width="100%" alt="eadstry — Learning to act in the real world. Original anime research atelier." />
-</p>
+# eadstry
 
-<p align="center">
-  <img src="assets/anime-profile-white.svg" width="100%" alt="Research interests: Embodied AI, Sim2Real, World Models and Reinforcement Learning. Previously: compression coding and communications, including multi-view image compression." />
-</p>
+## 研究方向
 
-<details>
-<summary>About me · 文字版</summary>
+具身智能 · Sim2Real · 世界模型 · 强化学习
 
-### 当前研究
+关注机器人数据生成、仿真评估与从仿真到真实环境的迁移。
 
-我的研究兴趣是**具身智能、Sim2Real、世界模型与强化学习**，关注智能体如何理解环境、通过交互学习，以及将仿真中的能力迁移到真实世界。
+## 项目与技术资料
 
-- **Embodied AI** — 感知、推理与行动。
-- **Sim2Real** — 从仿真中学习，向现实迁移。
-- **World Models** — 学习环境表示与动态变化。
-- **Reinforcement Learning** — 通过交互学习决策与控制。
-
-### 过往经历
-
-过去从事过**压缩编码与通信**相关工作，包括多视图图像压缩。
-
-</details>
+| 项目 | 内容 |
+| --- | --- |
+| [worldsim-lab](https://github.com/eadstry/worldsim-lab) | 具身智能数据与仿真实验，包含 AutoData 数据生成、域随机化、OpenArm 工具与实验文档。 |
+| [World-SimReady-Home](https://github.com/YoottaAI/World-SimReady-Home) | 机器人仿真相关项目。 |
+| [world-model-notes](https://github.com/eadstry/world-model-notes) | 世界模型学习笔记。 |
